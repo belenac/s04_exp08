@@ -19,7 +19,8 @@ header .navbar .navbar-header .navbar-brand img { height: 45px; }
 
 .jumbotron { margin-bottom: 0; background-color: #97cc00; color: #fff; }
 
-.noticias-home h2 { color: #216fa0; }
+.noticias-home h2 { color: #216fa0; line-height: 1; }
+.noticias-home h2 small { color: #216fa0; }
 .noticias-home .thumbnail { padding: 0; border-color: #97cc00; }
 .noticias-home .thumbnail img { width: 100%; }
 .noticias-home .caption .float-right { float: right; background-color: #216fa0; }
@@ -30,6 +31,12 @@ header .navbar .navbar-header .navbar-brand img { height: 45px; }
 .page-noticias .noticia-central .principal h2 { text-align: left; line-height: 1; color: #97cc00; }
 .page-noticias .noticia-central .principal img { margin-top: 2rem; }
 .page-noticias h3 { color: #216fa0; margin-bottom: 2rem; }
+
+.page-nosotros { margin-top: 5rem; }
+.page-nosotros .jumbotron { background-color: #97cc00; }
+.page-nosotros .nosotros h2 { text-align: left; margin-bottom: 2rem; }
+.page-nosotros .nuestra-mision { text-align: center; padding-top: 3rem; }
+.page-nosotros .nuestra-mision h2 { text-align: center; color: #97cc00; }
 
 footer { background-color: #216fa0; color: #fff; }
 footer a { color: #97cc00; }
