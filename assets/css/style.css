@@ -24,6 +24,13 @@ header .navbar .navbar-header .navbar-brand img { height: 45px; }
 .noticias-home .thumbnail img { width: 100%; }
 .noticias-home .caption .float-right { float: right; background-color: #216fa0; }
 
+.page-noticias { margin-top: 5rem; }
+.page-noticias .jumbotron { background-color: #216fa0; }
+.page-noticias .noticia-central .principal { text-align: left; }
+.page-noticias .noticia-central .principal h2 { text-align: left; line-height: 1; color: #97cc00; }
+.page-noticias .noticia-central .principal img { margin-top: 2rem; }
+.page-noticias h3 { color: #216fa0; margin-bottom: 2rem; }
+
 footer { background-color: #216fa0; color: #fff; }
 footer a { color: #97cc00; }
 footer a:hover { color: #333; }
